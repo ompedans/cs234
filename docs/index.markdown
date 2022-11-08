@@ -7,7 +7,10 @@ layout: home
 
 My name is Omer Eren. I am a 2nd year PhD student supervised by Amey Bhangale in UCR. My research interests are theory of computation and approximation algorithms. This is my project website for CS234 - Computational Methods for the Analysis of Biomolecular Data. I am planning to implement Linear-time construction of suffix trees in C++ as the course project.
 
-Updates:
+##Updates
 
-Week 5-7: Read the Ukkonen's paper. Started implementing the O(N^2) solution that will be used as baseline.
+###Week 5-7 
+- Read the Ukkonen's paper. 
+- Decided to use C++, instead of python for performance reasons.
+- Started implementing the O(N^2) solution that will be used as baseline.
 
